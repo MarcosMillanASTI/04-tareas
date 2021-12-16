@@ -11,7 +11,6 @@ const preguntas =[
     }
 ];
 
-
 const inquirerMenu = async () => {
     console.clear();
     console.log('============================'.green);
